@@ -1,0 +1,42 @@
+{
+    "userName": "alix_313.cpp",
+    "name": "Lisseth Georgina Fuentes Figueroa",
+    "publications": 23,
+    "followers": 135,
+    "followings": 708,
+    "biography": "01/01/2003\n👩‍💻 Técnico en programación\n👩‍💻 TSU desarrollo de software\n📚 Futura ingeniera...\n💻 SDET en proceso...",
+    "histories": [
+      {
+        "name": "CDS✨❤️",
+        "image": "histories/cds.jpg"
+      },
+      {
+        "name": "Me 💖",
+        "image": "histories/me.jpg"
+      },
+      {
+        "name": "UTEZ 💖",
+        "image": "histories/utez.jpg"
+      },
+      {
+        "name": "💃",
+        "image": "histories/dance.jpg"
+      },
+      {
+        "name": "Family",
+        "image": "histories/family.jpg"
+      }
+    ],
+    "photos": [
+      "photos/image1.jpg",
+      "photos/image2.jpg",
+      "photos/image3.jpg",
+      "photos/image4.jpg",
+      "photos/image5.jpg",
+      "photos/image6.jpg",
+      "photos/image7.jpg",
+      "photos/image8.jpg",
+      "photos/image9.jpg"
+    ]
+  }
+  
